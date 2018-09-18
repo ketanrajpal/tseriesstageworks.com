@@ -1,0 +1,12 @@
+[04-May-2016 03:55:15 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/tseriesstagework/public_html/inc/function.php on line 18
+[04-May-2016 03:55:15 Asia/Calcutta] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/tseriesstagework/public_html/inc/header.php on line 72
+[04-May-2016 03:55:15 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tseriesstagework/public_html/inc/header.php on line 73
+[04-May-2016 03:55:15 Asia/Calcutta] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/tseriesstagework/public_html/inc/function.php on line 23
+[04-May-2016 03:55:15 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/tseriesstagework/public_html/inc/function.php on line 18
+[04-May-2016 03:55:15 Asia/Calcutta] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/tseriesstagework/public_html/programs/index.php on line 34
+[04-May-2016 03:55:15 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tseriesstagework/public_html/programs/index.php on line 35
+[04-May-2016 03:55:15 Asia/Calcutta] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/tseriesstagework/public_html/inc/function.php on line 23
+[04-May-2016 03:55:15 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/tseriesstagework/public_html/inc/function.php on line 18
+[04-May-2016 03:55:15 Asia/Calcutta] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/tseriesstagework/public_html/inc/footer.php on line 13
+[04-May-2016 03:55:15 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tseriesstagework/public_html/inc/footer.php on line 14
+[04-May-2016 03:55:15 Asia/Calcutta] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/tseriesstagework/public_html/inc/function.php on line 23
